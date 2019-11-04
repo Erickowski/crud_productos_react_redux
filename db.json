@@ -1,0 +1,46 @@
+{
+  "Restaurant": [
+    {
+      "precioPlatillo": "400",
+      "nombrePlatillo": "Cheesecake",
+      "categoria": "Postres",
+      "id": 1
+    },
+    {
+      "precioPlatillo": "300",
+      "nombrePlatillo": "Rib eye 400g",
+      "categoria": "Cortes",
+      "id": 2
+    },
+    {
+      "nombrePlatillo": "Coca cola",
+      "precioPlatillo": "100",
+      "categoria": "Bebida",
+      "id": 3
+    },
+    {
+      "nombrePlatillo": "Pepsi",
+      "precioPlatillo": "20",
+      "categoria": "Bebida",
+      "id": 4
+    },
+    {
+      "nombrePlatillo": "Fanta",
+      "precioPlatillo": "30",
+      "categoria": "Bebida",
+      "id": 5
+    },
+    {
+      "nombrePlatillo": "Squirt",
+      "precioPlatillo": "30",
+      "categoria": "Bebida",
+      "id": 6
+    },
+    {
+      "nombrePlatillo": "Churrasco de Cuadril",
+      "precioPlatillo": "300",
+      "categoria": "Cortes",
+      "id": 7
+    }
+  ]
+}
